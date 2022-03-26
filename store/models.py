@@ -146,6 +146,6 @@ class CartItem(models.Model):
         
     promotions = models.ManyToManyField(Promotion)
         
-        
+        -
         
         """
